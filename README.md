@@ -20,6 +20,7 @@ Below is a list of the folders and their respective purposes:
 - **M365**: Contains KQL queries for Microsoft 365 applications and services.
 - **Defender**: Contains KQL queries for Microsoft Defender security products.
 - **Health**: Contains KQL queries related to system health and performance monitoring.
+- **Snippets**: Contains short, reusable KQL code fragments.
 
 
 ### Example Structure
