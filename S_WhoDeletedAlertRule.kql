@@ -1,3 +1,0 @@
-AzureActivity
-| where OperationName == "Delete Alert Rules" and ActivityStatusValue == "Succeeded" 
-| project Caller , EventSubmissionTimestamp
