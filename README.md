@@ -58,7 +58,7 @@ Below is a list of the folders and their respective purposes:
 
 To maintain consistency and clarity, please use the following prefixes for your KQL files:
 
-- **S_**: Snippets - Short, reusable code fragments.
+- **S_**: Snippets - Short, reusable KQL fragments.
 - **D_**: Detection - Queries used for detecting specific conditions or anomalies.
 - **H_**: Hunting Queries - Queries used for threat hunting and investigation.
 - **W_**: Workbooks - Queries that are part of or used in workbooks for reporting and visualization.
@@ -68,6 +68,8 @@ To maintain consistency and clarity, please use the following prefixes for your 
 We welcome contributions to this repository. If you have a KQL query to share, please ensure it adheres to the naming conventions and is placed in the appropriate folder. When contributing, please include a brief description of the query and its purpose in the file comment header.
 
 Thank you for your contributions and for helping  build a comprehensive KQL query repository!
+
+Den
 
 ## License
 
